@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://chenhao-pages.github.io/sitemap.xml
+Sitemap: https://chenhaodev.github.io/chenhao-pages/sitemap.xml
